@@ -1,0 +1,47 @@
+#img1 {
+    width: 500px;
+    height: 120px;
+}
+#img2 {
+    height: 270px;
+    width: 270px;
+}
+
+#div1 {
+    background-color: rgb(161, 183, 219);
+    height: 200px;
+}
+
+#h11 {
+    color: aliceblue;
+}
+
+#div2 {
+    background-color: rgb(124, 161, 255);
+    height: 50px;
+}
+
+#a1 {
+    color: aliceblue;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#div3 {
+    background-color: rgb(154, 199, 255);
+    border-radius: 7px;
+    border: 1px solid #000;
+
+}
+
+#footer {
+    background-color: rgb(46, 46, 46);
+    height: 100px;
+}
+
+#h41 {
+    color: aliceblue;
+}
+#div4{
+    background-color: rgb(154, 199, 255);
+}

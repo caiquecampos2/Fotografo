@@ -1,0 +1,86 @@
+#div1 {
+    background-color: rgb(161, 183, 219);
+    height: 200px;
+}
+
+#h11 {
+    color: aliceblue;
+}
+
+#div2 {
+    background-color: rgb(124, 161, 255);
+    height: 50px;
+}
+
+#a1 {
+    color: aliceblue;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#div3 {
+    background-color: rgb(234, 234, 234);
+    height: 170px;
+}
+
+#h12 {
+    color: rgb(105, 105, 252);
+}
+
+#footer {
+    background-color: rgb(46, 46, 46);
+    height: 100px;
+}
+
+#h41 {
+    color: aliceblue;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+#div4 {
+    background-color: rgb(104, 104, 104);
+    height: 255px;
+    width: 255px;
+}
+
+label {
+    margin-left: -500px;
+}
+
+input {
+    height: 20px;
+    width: 500px;
+}
+
+textarea {
+    height: 60px;
+    width: 500px;
+}
+
+#div5 {
+
+    border-radius: 20px;
+    width: 600px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000;
+    background-color: rgb(242, 239, 239);
+}
+
+#img1 {
+    width: 500px;
+    height: 120px;
+}
+
+button {
+    background-color: rgb(79, 141, 250);
+    border: #999;
+    border-radius: 5px;
+    width: 65px;
+    height: 40px;
+    margin-left: -500px;
+}
